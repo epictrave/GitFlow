@@ -1,0 +1,3 @@
+[submodule "a/commitlint"]
+	path = a/commitlint
+	url = https://github.com/epictrave/commitlint.git
